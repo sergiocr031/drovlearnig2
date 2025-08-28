@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio",
+  "name": "drovlearnig",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -26,6 +26,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "gh-pages": "^6.3.0",
-    "vite": "^4.4.5"
+    "vite": "^4.5.14"
   }
 }
