@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Alejandro Villoria",
+    "organisation": "Estudiante",
+    "startDate": "Sept, 2024",
+    "endDate": "Presente",
+    "experiences": ["Curso completo de React", "Curso completo de node"],
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "role": "Pedro Sanchez",
+    "organisation": "Desarrollador Web",
+    "startDate": "Enero, 2025",
+    "endDate": "Presente",
+    "experiences": ["Curso completo de mongoDB", "Curso de diseño UI/UX"],
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "role": "Carlos Ruiz",
+    "organisation": "Desarrollador backend",
+    "startDate": "Apr, 2024",
+    "endDate": "Enero, 2025",
+    "experiences": [
+      "Curso frontend avanzado",
+      " Curso base de datos SQL y NoSQL"
+    ],
+    "imageSrc": "skills/mongodb.png"
+  }
+]

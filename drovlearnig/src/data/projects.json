@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Bases de datos",
+    "imageSrc": "projects/project.png",
+    "description": "En este curso aprenderás los fundamentos de bases de datos,utilizando herramientas modernas.",
+    "skills": ["MySql", "PostgreSQL", "MongoDB"],
+    "demo": "https://universitariadecolombia.edu.co/carreras-profesionales",
+    "source": "https://universitariadecolombia.edu.co/"
+  },
+  {
+    "title": "Full Stack",
+    "imageSrc": "projects/project.png",
+    "description": "aprenderás a desarrollar aplicaciones completas, desde el frontend hasta el backend.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://universitariadecolombia.edu.co/carreras-profesionales",
+    "source": "https://universitariadecolombia.edu.co/"
+  },
+  {
+    "title": "Diseño Frontend",
+    "imageSrc": "projects/project.png",
+    "description": "Crear interfaces atractivas y funcionales, dominando HTML, CSS y JavaScript.",
+    "skills": ["React", "Viu", "Angular"],
+    "demo": "https://universitariadecolombia.edu.co/carreras-profesionales",
+    "source": "https://universitariadecolombia.edu.co/"
+  }
+]
